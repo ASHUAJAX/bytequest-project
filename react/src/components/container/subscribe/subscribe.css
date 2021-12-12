@@ -1,0 +1,64 @@
+
+.subscribe{
+    background-color: #66cccc;
+    margin-top: 150px;
+
+    padding: 70px;
+    
+}
+
+.subscribe-div-1{
+    padding-left: 50px;
+}
+
+.subscribe-div-1 h1{
+    color: white;
+    font-weight: 300;
+    margin-bottom: 29px;
+}
+
+.subscribe-div-1 p{
+    color: white;
+    font-weight: 400;
+    font-size: 17px;
+}
+
+.subscribe-div-2{
+    
+}
+
+.subscribe-div-2 div{
+    border: 2px solid white;
+    height: 60px;
+    background-color: white;
+    border-radius: 100px;
+    margin-top: 40px;
+    display: flex;
+}
+
+.subscribe-div-2 div input{
+    height: 60px;
+    margin-left: 20px;
+    border-radius: 100px;
+    border: none;
+    position: relative;
+    top: -2px;
+    flex: 1;
+}
+.subscribe-div-2 div input:focus{
+    outline: none;
+}
+
+.subscribe-div-2 div button{
+    background-color: #662d91;
+    color: white;
+    border: none;
+    border-radius: 100px;
+    width: 125px;
+   margin-top: 2px;
+   height: 52px;
+    font-size: 19px;
+    font-weight: 500;
+    margin-right: 2px;
+   
+}

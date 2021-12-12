@@ -1,0 +1,34 @@
+.HomeSection-heading1{
+    font-size: 21px;
+    color: grey;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 14px;
+    margin-top: 29px;
+    font-weight: 300;
+
+}
+.HomeSection-heading2{
+    
+ margin-top: -15px;
+    font-weight: normal;
+    text-align: center;
+    padding-top: 14px;
+    margin-bottom: 50px;
+}
+
+.HomeSection-sec-1-div,.HomeSection-sec-2-div,.HomeSection-sec-3-div{
+    margin-top: 35px!important;
+    margin: auto;
+    height: 420px;
+    width: 340px;
+    background-color: rgb(192, 192, 192);
+    border-radius: 15px;
+}
+
+.HomeSection-container{
+    width: 90%;
+    margin: auto;
+}
+
+
